@@ -1,0 +1,67 @@
+.content{
+    width: 60%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type=text]{
+    padding: 5px 10px;
+    width: 60%;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type=submit]{
+    padding: 5px 15px;
+    letter-spacing: 1px;
+    border: 0;
+    background: gold;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    border-bottom: 1px solid gray;
+   
+}
+
+h2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 a{
+    color: black;
+    text-decoration: none;
+}
+
+img{
+    height: 100px;
+    padding: 5px;
+    border-radius: 8px;
+    float: left;
+}
+
+.post{
+    border: 2px solid rgb(209, 115, 8);
+    padding: 5px;
+    border-radius: 3px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.post-head span{
+    font-size: 14px;
+    color: gray;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.post-content{
+    font-size: 18px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
