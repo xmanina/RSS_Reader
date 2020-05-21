@@ -4,7 +4,7 @@ This application supports the [Getting Started with PHP on Heroku](https://devce
 
 ## Deploying
 
-
+page(https://rss-reader-pro.herokuapp.com)
 
 
 
