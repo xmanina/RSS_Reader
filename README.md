@@ -3,8 +3,8 @@
 This application supports the [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php.
 
 ## Deploying
-
-page(https://rss-reader-pro.herokuapp.com)
+lint to public github repo: https://github.com/xmanina/RSS_Reader.git
+lin to page:(https://rss-reader-pro.herokuapp.com)
 
 
 
